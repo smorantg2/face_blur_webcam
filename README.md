@@ -20,5 +20,5 @@ This is just a fun-afternoon-project developed to apply some simple computer vis
 
 ## Images
 
-![Demo](./img/screenshot.png)
+![Demo](./img/screenshot2.png)
 
