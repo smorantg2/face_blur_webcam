@@ -1,7 +1,5 @@
 import cv2
 import face_alignment
-import time
-import matplotlib.pyplot as plt
 import numpy as np
 
 def anonymize_face_simple(image, factor=3.0):
