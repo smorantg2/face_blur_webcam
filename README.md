@@ -2,7 +2,7 @@
 
 Fast and simple project for anonymization in webcam video.
 
-Video [here](https://www.linkedin.com/feed/update/urn:li:activity:6734394877460660224/).
+Video [here](https://www.linkedin.com/posts/sergio-morant-galvez_python-computervision-deeplearning-activity-6745288268620820480-5lUq).
 
 ## Python Package Requirements
 
